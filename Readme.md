@@ -1,0 +1,1 @@
+Projeto Sound Garden, desafio de utilizar uma api usando javascript para integrar front com back
